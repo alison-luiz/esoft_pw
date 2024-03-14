@@ -1,43 +1,3 @@
-.lupa::marker {
-  content: "🔍";
-}
-
-nav a:hover {
-  color: #ffc107;
-}
-
-a {
-  color: #4592c4;
-  font-weight: bold;
-}
-
-.recursos a:hover {
-  opacity: 0.8;
-}
-
-.evolucao-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.pokemon-evolucao {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0 10px;
-}
-
-.pokemon-evolucao img {
-  display: block;
-  margin: 0 auto;
-}
-
-.pokemon-evolucao span {
-  margin-top: 10px;
-  font-weight: bold;
-}
-
 footer a:hover {
   opacity: 0.8;
 }
@@ -48,7 +8,6 @@ footer {
   padding: 20px;
   text-align: center;
   bottom: 0;
-  width: 100%;
 }
 
 footer a {
