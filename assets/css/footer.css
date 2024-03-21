@@ -1,16 +1,19 @@
-footer a:hover {
-  opacity: 0.8;
-}
-
 footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
   background-color: #343a40;
   color: #fff;
-  padding: 20px;
-  text-align: center;
-  bottom: 0;
+  gap: 12px;
 }
 
 footer a {
   color: #ffc107;
   text-decoration: none;
+}
+
+footer a:hover {
+  opacity: 0.8;
 }
