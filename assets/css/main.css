@@ -48,6 +48,10 @@ ul li {
   padding: 10px;
 }
 
+#squirtle-image-2 {
+  padding: 35px;
+}
+
 .lupa::marker {
   content: "🔍";
 }
@@ -83,7 +87,7 @@ ul li {
 .curiosidades-lista {
   display: flex;
   flex-direction: column;
-  gap: 3px;
+  gap: 5px;
 }
 
 .artigo-squirtle-content {
