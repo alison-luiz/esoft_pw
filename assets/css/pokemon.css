@@ -19,3 +19,8 @@ main section {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 80%;
 }
+
+.pokemon-image img {
+  width: 200px;
+  cursor: pointer;
+}
